@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptobull7791
 - 👀 I’m interested in BlockChain
-- 🌱 I’m currently learning software Enginner
+- 🌱 I’m currently learning software Engineer
 - 💞️ I’m looking to collaborate on BlockChain Developer
 - 📫 How to reach me ...
 
